@@ -94,4 +94,13 @@ AU,au	LENGTH	NON_SI	astronomical unit
 kg/m3	DENSITY	SI	kilogram per cubic metre
 g/cc	DENSITY	SI_DERIVED	gram per cubic centimetre
 kg/m2/yr	MASS_ACCUMULATION_RATE	SI_DERIVED	kilogram per squaremetre per year
-cm/yr	SEDIMENTATION_RATE	SI_DERIVED	centimetre per year
+cm/yr	SEDIMENTATION_RATE	SI_DERIVED  centimetre per year
+kJ/mol	ENTHALPY	SI_DERIVED	kilojoule per mol
+kJ/g	ENTHALPY	SI_DERIVED	kilojoule per gram
+L/mol	MOLAR_VOLUME	SI_DERIVED	liter per mol
+L/mol/cm	ABSORPTIVITY	SI_DERIVED	liter per mol per centimetre
+g/L	SOLUBILITY	SI_DERIVED	gram per liter
+kg/m^3,kg/m³	SOLUBILITY	SI_DERIVED	kilogram per cubic metre
+W/m/K	THERMAL_CONDUCTIVITY	SI_DERIVED	watts per metre-kelvin
+J/K	HEAT_CAPACITY	SI_DERIVED	joule per kelvin
+J/K/kg	SPECIFIC_HEAT_CAPACITY	SI_DERIVED	joule per kelvin per kilogram

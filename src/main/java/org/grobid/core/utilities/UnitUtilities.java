@@ -83,7 +83,7 @@ public class UnitUtilities {
         DETECTOR_PASSBAND("detector passband"),
         THERMAL_CONDUCTIVITY("thermal conductivity"),
         THERMAL_DIFFUSIVITY("thermal diffusivity"),
-        HEAT_CAPACITY("specific heat capacity"),
+        SPECIFIC_HEAT_CAPACITY("specific heat capacity"),
         VOLUMETRIC_HEAT_CAPACITY("volumetric heat capacity"),
         EMISSION_RATE("emission rate"),
         CATALYTIC_ACTIVITY("catalytic activity"),
@@ -112,7 +112,12 @@ public class UnitUtilities {
         WEIGHT_RATIO("weight ratio"),
         MASS_ACCUMULATION_RATE("mass accumulation rate"),
         SEDIMENTATION_RATE("sedimentation rate"),
-        ROTATION("rotation");
+        ROTATION("rotation"),
+        ENTHALPY("enthalpy"),
+        MOLAR_VOLUME("molar volume"),
+        ABSORPTIVITY("absorptivity"),
+        SOLUBILITY("solubility"),
+        HEAT_CAPACITY("heat capacity");
 
         private String name;
 

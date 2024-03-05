@@ -1820,6 +1820,9 @@
       "notations": [
         {
           "raw": "Pa.s"
+        },
+        {
+          "raw": "Pa•s"
         }
       ],
       "type": "DYNAMIC_VISCOSITY",
@@ -3057,6 +3060,837 @@
           "inflection": [
             "magnetogyric ratios"
           ]
+        }
+      ]
+    },
+    {
+      "notations": [
+        {
+          "raw": "kJ mol-1",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "J"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "kJ mol -1",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "J"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "kJ mol^-1",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "J"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "kJ•mol-1",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "J"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "kJ/mol",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "J"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "J/mol",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        }
+      ],
+      "type": "ENTHALPY",
+      "system": "SI_DERIVED",
+      "supportsPrefixes": true,
+      "names": [
+        {
+          "lemma": "enthalpy"
+        },
+        {
+          "lemma": "joule per mol",
+          "inflection": "joules per mol"
+        }
+      ]
+    },
+    {
+      "notations": [
+        {
+          "raw": "kcal mol-1",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "cal"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "kcal mol -1",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "cal"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "kcal mol^-1",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "cal"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "kcal•mol-1",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "cal"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "kcal/mol",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "cal"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "cal/mol",
+          "product": [
+            {
+              "base": "cal"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        }
+      ],
+      "type": "ENTHALPY",
+      "system": "SI_DERIVED",
+      "supportsPrefixes": true,
+      "names": [
+        {
+          "lemma": "enthalpy"
+        },
+        {
+          "lemma": "calory per mol",
+          "inflection": "calories per mol"
+        }
+      ]
+    },
+    {
+      "notations": [
+        {
+          "raw": "kJ g-1",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "J"
+            },
+            {
+              "base": "g",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "kJ g^-1",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "J"
+            },
+            {
+              "base": "g",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "kJ•g-1",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "J"
+            },
+            {
+              "base": "g",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "kJ/g",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "J"
+            },
+            {
+              "base": "g",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "J/g",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "base": "g",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "J/kg",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "prefix": "k",
+              "base": "g",
+              "pow": "-1"
+            }
+          ]
+        }
+      ],
+      "type": "ENTHALPY",
+      "system": "SI_DERIVED",
+      "supportsPrefixes": true,
+      "names": [
+        {
+          "lemma": "enthalpy"
+        },
+        {
+          "lemma": "joule per gram",
+          "inflection": "joules per gram"
+        }
+      ]
+    },
+    {
+      "notations": [
+        {
+          "raw": "L mol-1",
+          "product": [
+            {
+              "base": "L"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "L mol^-1",
+          "product": [
+            {
+              "base": "L"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "L/mol",
+          "product": [
+            {
+              "base": "L"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "m³/mol",
+          "product": [
+            {
+              "base": "m",
+              "pow": "3"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "m3/mol",
+          "product": [
+            {
+              "base": "m",
+              "pow": "3"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "m3⋅mol-1",
+          "product": [
+            {
+              "base": "m",
+              "pow": "3"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        }
+      ],
+      "type": "MOLAR_VOLUME",
+      "system": "SI_DERIVED",
+      "supportsPrefixes": true,
+      "names": [
+        {
+          "lemma": "molar volume"
+        }
+      ]
+    },
+    {
+      "notations": [
+        {
+          "raw": "L mol-1 cm-1",
+          "product": [
+            {
+              "base": "L"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            },
+            {
+              "prefix": "c",
+              "base": "m",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "L mol^-1 cm^-1",
+          "product": [
+            {
+              "base": "L"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            },
+            {
+              "prefix": "c",
+              "base": "m",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "L mol^-1 m^-1",
+          "product": [
+            {
+              "base": "L"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            },
+            {
+              "base": "m",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "m²/mol",
+          "product": [
+            {
+              "base": "m",
+              "pow": "2"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        }
+      ],
+      "type": "ABSORPTIVITY",
+      "system": "SI_DERIVED",
+      "supportsPrefixes": true,
+      "names": [
+        {
+          "lemma": "absorptivity"
+        }
+      ]
+    },
+    {
+      "notations": [
+        {
+          "raw": "g L-1",
+          "product": [
+            {
+              "base": "g"
+            },
+            {
+              "base": "L",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "g L^-1",
+          "product": [
+            {
+              "base": "g"
+            },
+            {
+              "base": "L",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "g/L",
+          "product": [
+            {
+              "base": "g"
+            },
+            {
+              "base": "L",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "g mL^-1",
+          "product": [
+            {
+              "base": "g"
+            },
+            {
+              "prefix": "m",
+              "base": "L",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "g/mL",
+          "product": [
+            {
+              "base": "g"
+            },
+            {
+              "prefix": "m",
+              "base": "L",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "kg/m^3",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "g"
+            },
+            {
+              "base": "m",
+              "pow": "-3"
+            }
+          ]
+        },
+        {
+          "raw": "kg/m³",
+          "product": [
+            {
+              "prefix": "k",
+              "base": "g"
+            },
+            {
+              "base": "m",
+              "pow": "-3"
+            }
+          ]
+        }
+      ],
+      "type": "SOLUBILITY",
+      "system": "SI_DERIVED",
+      "supportsPrefixes": true,
+      "names": [
+        {
+          "lemma": "solubility"
+        }
+      ]
+    },
+    {
+      "notations": [
+        {
+          "raw": "W/(m·K)",
+          "product": [
+            {
+              "base": "W"
+            },
+            {
+              "base": "m",
+              "pow": "-1"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "W cm^-1 K^-1",
+          "product": [
+            {
+              "base": "W"
+            },
+            {
+              "prefix": "c",
+              "base": "m",
+              "pow": "-1"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "W m-1 K-1",
+          "product": [
+            {
+              "base": "W"
+            },
+            {
+              "base": "m",
+              "pow": "-1"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "W m^-1 K^-1",
+          "product": [
+            {
+              "base": "W"
+            },
+            {
+              "base": "m",
+              "pow": "-1"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            }
+          ]
+        }
+      ],
+      "type": "THERMAL_CONDUCTIVITY",
+      "system": "SI_DERIVED",
+      "supportsPrefixes": true,
+      "names": [
+        {
+          "lemma": "thermal conductivity"
+        },
+        {
+          "lemma": "watts per metre-kelvin"
+        }
+      ]
+    },
+    {
+      "notations": [
+        {
+          "raw": "J K^-1",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "J K-1",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "J/K",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            }
+          ]
+        }
+      ],
+      "type": "HEAT_CAPACITY",
+      "system": "SI_DERIVED",
+      "supportsPrefixes": true,
+      "names": [
+        {
+          "lemma": "heat capacity"
+        }
+      ]
+    },
+    {
+      "notations": [
+        {
+          "raw": "J K^-1 kg^-1",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            },
+            {
+              "prefix": "k",
+              "base": "g",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "J K-1 kg-1",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            },
+            {
+              "prefix": "k",
+              "base": "g",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "J⋅K-1⋅kg-1",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            },
+            {
+              "prefix": "k",
+              "base": "g",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "J K-1 g-1",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            },
+            {
+              "base": "g",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "J/(K⋅kg)",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            },
+            {
+              "prefix": "k",
+              "base": "g",
+              "pow": "-1"
+            }
+          ]
+        }
+      ],
+      "type": "SPECIFIC_HEAT_CAPACITY",
+      "system": "SI_DERIVED",
+      "supportsPrefixes": true,
+      "names": [
+        {
+          "lemma": "specific heat capacity"
+        }
+      ]
+    },
+    {
+      "notations": [
+        {
+          "raw": "J K^-1 mol^-1",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "J K-1 mol-1",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "J/(K•mol)",
+          "product": [
+            {
+              "base": "J"
+            },
+            {
+              "base": "K",
+              "pow": "-1"
+            },
+            {
+              "base": "mol",
+              "pow": "-1"
+            }
+          ]
+        }
+      ],
+      "type": "SPECIFIC_HEAT_CAPACITY",
+      "system": "SI_DERIVED",
+      "supportsPrefixes": true,
+      "names": [
+        {
+          "lemma": "specific heat capacity"
+        },
+        {
+          "lemma": "molar specific heat capacity"
+        },
+        {
+          "lemma": "joule per kelvin per mol"
         }
       ]
     }

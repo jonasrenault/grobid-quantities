@@ -1,0 +1,169 @@
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc xml:id="_1" />
+        <encodingDesc>
+            <appInfo>
+                <application version="0.7.2" ident="GROBID" when="2023-06-26T13:59+0000">
+                    <ref target="https://github.com/kermitt2/grobid">A machine learning software for extracting information from scholarly documents</ref>
+                </application>
+            </appInfo>
+        </encodingDesc>
+    </teiHeader>
+    <text xml:lang="lexicon/en">
+        <p>The molar absorptivity of KDNP was determined to be approx <measure type="value">
+            <num>18865</num>
+            <measure type="ABSORPTIVITY" unit="L mol-1 cm-1">L mol-1 cm-1</measure>
+        </measure> at <measure type="value">
+        <num>439</num>
+        <measure type="LENGTH" unit="nm">nm</measure>
+    </measure> and the solubility at <measure type="value">
+    <num>293</num>
+    <measure type="TEMPERATURE" unit="K">K</measure>
+</measure> was <measure type="value">
+<num>3.45</num>
+<measure type="SOLUBILITY" unit="g L-1">g L-1</measure>
+</measure>.
+This gravimetic method afforded a value for KDNP solubility of <measure type="value">
+<num>3.56</num>
+<measure type="SOLUBILITY" unit="g L-1">g L-1</measure>
+</measure>, in agreement with the previous method.
+With the excellent sensitivity values for impact (<measure type="value">
+<num>40</num>
+<measure type="ENERGY" unit="J">J</measure>
+</measure>), and ESD (<measure type="value">
+<num>0.2</num>
+<measure type="ENERGY" unit="J">J</measure>
+</measure>) in addition to the remarkable high temperature of decomposition (<measure type="value">
+<num>219</num>
+<measure type="TEMPERATURE" unit="°C">°C</measure>
+</measure>) and a very low solubility in water (<measure type="value">
+<num>2.45</num>
+<measure type="SOLUBILITY" unit="g·L-1">g·L-1</measure>
+</measure>,<measure type="value">
+<num>25</num>
+<measure type="TEMPERATURE" unit="°C">°C</measure>
+</measure>), the triaminoguanidinium salt seems to be the best choice in terms of performance and sensitivity and makes this compound suitable as a potential new high explosive.
+At a density of <measure type="value">
+<num>1.58</num>
+<measure type="DENSITY" unit="g•cm-3">g·cm-3</measure>
+</measure> TAG2 DNAT shows a detonation velocity of <measure type="value">
+<num>8200</num>
+<measure type="VELOCITY" unit="m•s-1">m·s-1</measure>
+</measure> and a detonation pressure at the Chapman-Jouguet point of <measure type="value">
+<num>230</num>
+<measure type="PRESSURE" unit="kbar">kbar</measure>
+</measure>, whereas 9 exhibits a detonation pressure of <measure type="value">
+<num>8596</num>
+<measure type="VELOCITY" unit="m•s-1">m·s-1</measure>
+</measure> paired with a detonation pressure of <measure type="value">
+<num>290</num>
+<measure type="PRESSURE" unit="kbar">kbar</measure>
+</measure> at a density of <measure type="value">
+<num>1.70</num>
+<measure type="DENSITY" unit="g•cm-3">g·cm-3</measure>
+</measure>.
+The density is as expected very low with only <measure type="value">
+<num>1.483</num>
+<measure type="DENSITY" unit="g•cm-3">g·cm-3</measure>
+</measure> due to the formation of the DMSO adduct.
+Enthalpy of carbamate reversion of amines in aqueous solution at <measure type="list">
+<num>298.15</num> and <num>313.15</num>
+<measure type="TEMPERATURE" unit="K">K</measure>
+</measure> was measured as <measure type="value">
+<num>26.80</num>
+<measure type="ENTHALPY" unit="kJ•mol-1">kJ·mol-1</measure>
+</measure> and <measure type="value">
+<num>26.53</num>
+<measure type="ENTHALPY" unit="kJ•mol-1">kJ·mol-1</measure>
+</measure> respectively.
+NCL is classified according to the Biopharmaceutical Classification System as class II showing very limited oral bioavailability due to its poor solubility in water (<measure type="interval">
+<num atLeast="5">5</num>-<num atMost="8">8</num>
+<measure type="SOLUBILITY" unit="mg/L">mg/L</measure>
+</measure>).
+The solid dispersion with soluplus provided the best result, reaching an average concentration of niclosamide of <measure type="value">
+<num>26</num>
+<measure type="SOLUBILITY" unit="µg / mL">µg / mL</measure>
+</measure>. This value represents approximately a <measure type="value">
+<num>73</num>
+<measure type="FRACTION" unit="%">%</measure>
+</measure> increase compared to pure crystalline niclosamide (<measure type="value">
+<num>15</num>
+<measure type="SOLUBILITY" unit="µg/mL">µg/mL</measure>
+</measure>) and a <measure type="value">
+<num>100</num>
+<measure type="FRACTION" unit="%">%</measure>
+</measure> increase in comparison with the most soluble anhydrous form reported in literature (<measure type="value">
+<num>13</num>
+<measure type="SOLUBILITY" unit="µg/mL">µg/mL</measure>
+</measure>).
+For TFSA, Gibbs energy of CO2 absorption was evaluated experimentally as <measure type="value">
+<num>2.72</num>
+<measure type="ENTHALPY" unit="kJ•mol-1">kJ·mol-1</measure>
+</measure>, enthalpy as -<measure type="interval">
+<num atMost="2.62">2.62</num>
+<measure type="ENTHALPY" unit="kJ•mol-1">kJ·mol-1</measure>
+</measure>, and entropy as -<measure type="interval">
+<num atMost="17.1">17.1</num>
+<measure type="ENTROPY" unit="J•mol-1•K-1">J·mol-1·K-1</measure>
+</measure>.
+The molar volume of an ideal gas at<measure type="value">
+<num>100</num>
+<measure type="PRESSURE" unit="kPa">kPa</measure>
+</measure> (<measure type="value">
+<num>1</num>
+<measure type="PRESSURE" unit="bar">bar</measure>
+</measure>) is <measure type="value">
+<num>0.022</num>
+<measure type="MOLAR_VOLUME" unit="m3/mol">m3/mol</measure>
+</measure> at <measure type="value">
+<num>0</num>
+<measure type="TEMPERATURE" unit="°C">°C</measure>
+</measure>. The CODATA recommended value for the molar volume of silicon is <measure type="value">
+<num>1.205</num>
+<measure type="MOLAR_VOLUME" unit="m3⋅mol-1">m3⋅mol-1</measure>
+</measure>.
+The thermal conductivity of KDNP at<measure type="value">
+<num>303</num>
+<measure type="TEMPERATURE" unit="K">K</measure>
+</measure> is <measure type="value">
+<num>0.09</num>
+<measure type="THERMAL_CONDUCTIVITY" unit="W m-1 K-1">W m-1 K-1</measure>
+</measure> for the free flowing powder.
+In caffeine reagent the average molar absorptivity values were <measure type="list">
+<num>50.060</num> and <num>48.980</num>
+<measure type="ABSORPTIVITY" unit="L mol-1 cm-1">L mol-1 cm-1</measure>
+</measure> at <measure type="list">
+<num>432</num>
+</measure> and <measure type="value">
+<num>457</num>
+<measure type="LENGTH" unit="nm">nm</measure>
+</measure>, respectively.
+The the molar absorptivity value of the blue azopigment, obtained with the Reference Method for total serum bilirubin, was <measure type="value">
+<num>76.490</num>
+<measure type="ABSORPTIVITY" unit="L mol-1 cm-1">L mol-1 cm-1</measure>
+</measure> at <measure type="value">
+<num>598</num>
+<measure type="LENGTH" unit="nm">nm</measure>
+</measure>.
+When the addition of alkaline tartrate was omitted, the molar absorptivity of the red azopigment was <measure type="value">
+<num>56.600</num>
+<measure type="ABSORPTIVITY" unit="L mol-1 cm-1">L mol-1 cm-1</measure>
+</measure> at <measure type="value">
+<num>530</num>
+<measure type="LENGTH" unit="nm">nm</measure>
+</measure>.
+OA mass had solubility less than <measure type="value">
+<num>10^-4</num>
+<measure type="SOLUBILITY" unit="g L-1">g L-1</measure>
+</measure> which corresponds to the measured (known) solubility. 
+The water solubility of palmitic acid is <measure type="value">
+<num>4x10-5</num>
+<measure type="SOLUBILITY" unit="g L-1">g L-1</measure>
+</measure>.
+Its presence, however, results in a decrease in combustion enthalpy from the maximum, computed value of <measure type="value">
+<num>24.3</num>
+<measure type="ENTHALPY" unit="kJ g-1">kJ g-1</measure>
+</measure> to that of low energy MA composites.
+</p>
+</text>
+</tei>

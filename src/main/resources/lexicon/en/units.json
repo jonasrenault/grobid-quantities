@@ -1838,6 +1838,9 @@
       "notations": [
         {
           "raw": "P"
+        },
+        {
+          "raw": "cP"
         }
       ],
       "type": "DYNAMIC_VISCOSITY",

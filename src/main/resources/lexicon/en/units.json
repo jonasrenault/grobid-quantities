@@ -1944,6 +1944,34 @@
               "pow": "-1"
             }
           ]
+        },
+        {
+          "raw": "mm 2 s-1",
+          "product": [
+            {
+              "prefix": "m",
+              "base": "m",
+              "pow": 2
+            },
+            {
+              "base": "s",
+              "pow": "-1"
+            }
+          ]
+        },
+        {
+          "raw": "mm 2 /s",
+          "product": [
+            {
+              "prefix": "m",
+              "base": "m",
+              "pow": 2
+            },
+            {
+              "base": "s",
+              "pow": "-1"
+            }
+          ]
         }
       ],
       "type": "DYNAMIC_VISCOSITY",

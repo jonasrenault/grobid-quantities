@@ -1819,10 +1819,40 @@
     {
       "notations": [
         {
-          "raw": "Pa.s"
+          "raw": "Pa.s",
+          "product": [
+            {
+              "base": "Pa"
+            },
+            {
+              "base": "s",
+              "pow": -1
+            }
+          ]
         },
         {
-          "raw": "Pa•s"
+          "raw": "Pa•s",
+          "product": [
+            {
+              "base": "Pa"
+            },
+            {
+              "base": "s",
+              "pow": -1
+            }
+          ]
+        },
+        {
+          "raw": "Pa s",
+          "product": [
+            {
+              "base": "Pa"
+            },
+            {
+              "base": "s",
+              "pow": -1
+            }
+          ]
         }
       ],
       "type": "DYNAMIC_VISCOSITY",
@@ -1831,6 +1861,70 @@
       "names": [
         {
           "lemma": "pascal-second"
+        }
+      ]
+    },
+    {
+      "notations": [
+        {
+          "raw": "m2 s-1",
+          "product": [
+            {
+              "base": "m",
+              "pow": 2
+            },
+            {
+              "base": "s",
+              "pow": -1
+            }
+          ]
+        },
+        {
+          "raw": "m^2 s^-1",
+          "product": [
+            {
+              "base": "m",
+              "pow": 2
+            },
+            {
+              "base": "s",
+              "pow": -1
+            }
+          ]
+        },
+        {
+          "raw": "m2/s",
+          "product": [
+            {
+              "base": "m",
+              "pow": 2
+            },
+            {
+              "base": "s",
+              "pow": -1
+            }
+          ]
+        },
+        {
+          "raw": "m²/s",
+          "product": [
+            {
+              "base": "m",
+              "pow": 2
+            },
+            {
+              "base": "s",
+              "pow": -1
+            }
+          ]
+        }
+      ],
+      "type": "DYNAMIC_VISCOSITY",
+      "system": "SI_DERIVED",
+      "supportsPrefixes": true,
+      "names": [
+        {
+          "lemma": "squaremetre per second"
         }
       ]
     },

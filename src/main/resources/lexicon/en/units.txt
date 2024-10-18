@@ -83,7 +83,7 @@ psi	PRESSURE	US	pound per square inch,pound-force per square inch
 ‱	FRACTION	NON_SI	per ten thousand,basis point,permyriad
 Pl	DYNAMIC_VISCOSITY	SI_DERIVED	poiseuille
 Pa.s	DYNAMIC_VISCOSITY	SI_DERIVED	pascal-second
-m2/s	DYNAMIC_VISCOSITY	SI_DERIVED	squaremetre per second
+m2/s	KINEMATIC_VISCOSITY	SI_DERIVED	squaremetre per second
 P	DYNAMIC_VISCOSITY	NON_SI	poise
 ml/kg/min	VO2_MAX	NON_SI	millilitres per kilogramme of body weight per minute
 rad	RADIAN	SI	radian
